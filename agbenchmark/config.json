@@ -1,4 +1,3 @@
 {
-  "workspace": "generated",
-  "entry_path": "agbenchmark.benchmarks"
+  "workspace": "generated"
 }
