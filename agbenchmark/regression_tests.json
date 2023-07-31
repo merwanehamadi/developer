@@ -1,7 +1,0 @@
-{
-  "TestWriteFile": {
-    "difficulty": "interface",
-    "dependencies": [],
-    "data_path": "agbenchmark/challenges/interface/write_file"
-  }
-}
